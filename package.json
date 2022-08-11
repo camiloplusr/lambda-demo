@@ -1,0 +1,22 @@
+{
+  "name": "lambda-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloplusr/lambda-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloplusr/lambda-demo/issues"
+  },
+  "homepage": "https://github.com/camiloplusr/lambda-demo#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
